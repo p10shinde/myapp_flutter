@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter POCO PHONE",
+            "type": "dart",
+            "request": "launch",
+            "deviceId": "192.168.0.109:5555"
+        },
+            {
+                "name": "Flutter Oneplus",
+                "type": "dart",
+                "request": "launch",
+                "deviceId": "192.168.0.106:5555"
+            },
+            
+            {
+                "name": "Flutter emulator1",
+                "request": "launch",
+                "type": "dart",
+                "deviceId": "emulator-5554"
+            },
+            
+            {
+                "name": "Flutter emulator2",
+                "request": "launch",
+                "type": "dart",
+                "deviceId": "emulator-5556"
+            }
+    ]
+}
